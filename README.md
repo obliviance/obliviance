@@ -1,6 +1,4 @@
-!(/header.png)
-## Nice to meet you! 
-### I'm Awwab Mahdi (اوّابْ)
+<img src="header.png" alt="## Nice to meet you! ### I'm Awwab Mahdi (اوّابْ)"/>
 
 ### Languages
 
