@@ -1,37 +1,36 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jayrajroshan/)](https://www.linkedin.com/in/awwabm/)
+!(/header.png)
+## Nice to meet you! 
+### I'm Awwab Mahdi (اوّابْ)
 
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Swift](https://img.shields.io/badge/-Swift-000?&logo=Swift)
+![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
 
 ### Technologies
 
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
 ![React](https://img.shields.io/badge/-React-000?&logo=React)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)
-![Spring](https://img.shields.io/badge/-Spring-000?&logo=Spring)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
+![Gymnasium](https://img.shields.io/badge/-openaigym-000?&logo=openaigym)
+![Git](https://img.shields.io/badge/-Git-000?&logo=Git)
+![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
+![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
+![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
 
 <p align="center">
   <!-- Monospace Font -->
   <samp>
-    <a href="https://editor.p5js.org/raklaptudirm/sketches">p5.js</a> .
-    <a href="https://en.wikipedia.org/wiki/User:Laptudirm">wikipedia</a> .
-    <a href="https://laptudirm.com/blog">blog</a> .
-    <a href="https://www.linkedin.com/in/laptudirm/">linkedin</a> .
-    <a href="./metrics.md">metrics</a> .
-    <a href="https://gitlab.com/laptudirm">old-projects</a>
+    <a href="https://a--ab.com/">website</a> .
+    <a href="https://www.linkedin.com/in/awwabm/">linkedin</a> .
+    <a href="https://rxresu.me/obliviance/awwab-mahdi-resume-main">resume</a>
   </samp>
 </p>
