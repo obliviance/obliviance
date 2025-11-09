@@ -3,14 +3,14 @@
 ### Languages
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python)
+![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
+![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
+![Bash](https://img.shields.io/badge/-GNUBash-000?&logo=GNUBash)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
-![Julia](https://img.shields.io/badge/-Julia-000?&logo=Julia)
-![Haskell](https://img.shields.io/badge/-Haskell-000?&logo=Haskell)
-![Bash](https://img.shields.io/badge/-GNUBash-000?&logo=GNUBash)
 
 ### Technologies
 
@@ -25,12 +25,14 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-000?&logo=WordPress)
 ![Figma](https://img.shields.io/badge/-Figma-000?&logo=Figma)
 ![Unity](https://img.shields.io/badge/-Unity-000?&logo=Unity)
+![Wireshark](https://img.shields.io/badge/-Wireshark-000?&logo=Wireshark)
+![LangChain](https://img.shields.io/badge/-langchain-000?&logo=langchain)
 
 <p align="center">
   <!-- Monospace Font -->
   <samp>
     <a href="https://a--ab.com/">website</a> .
     <a href="https://www.linkedin.com/in/awwabm/">linkedin</a> .
-    <a href="https://rxresu.me/obliviance/awwab-mahdi-resume-main">resume</a>
+    <a href="https://rxresu.me/obliviance/awwab-mahdi-resume">resume</a>
   </samp>
 </p>
